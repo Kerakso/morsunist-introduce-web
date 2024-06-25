@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/morsunist-introduce-web/static/css/main.afb5cc59.css",
-    "main.js": "/morsunist-introduce-web/static/js/main.15beef25.js",
-    "static/media/background.mp4": "/morsunist-introduce-web/static/media/background.2ba74fbb470be8918afc.mp4",
-    "static/media/logo.png": "/morsunist-introduce-web/static/media/logo.da99b115c0d676971592.png",
-    "index.html": "/morsunist-introduce-web/index.html",
-    "main.afb5cc59.css.map": "/morsunist-introduce-web/static/css/main.afb5cc59.css.map",
-    "main.15beef25.js.map": "/morsunist-introduce-web/static/js/main.15beef25.js.map"
+    "main.css": "/static/css/main.afb5cc59.css",
+    "main.js": "/static/js/main.74c829f5.js",
+    "static/media/background.mp4": "/static/media/background.2ba74fbb470be8918afc.mp4",
+    "static/media/logo.png": "/static/media/logo.da99b115c0d676971592.png",
+    "index.html": "/index.html",
+    "main.afb5cc59.css.map": "/static/css/main.afb5cc59.css.map",
+    "main.74c829f5.js.map": "/static/js/main.74c829f5.js.map"
   },
   "entrypoints": [
     "static/css/main.afb5cc59.css",
-    "static/js/main.15beef25.js"
+    "static/js/main.74c829f5.js"
   ]
 }
